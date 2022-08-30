@@ -1,7 +1,7 @@
 # This is the basic steps based on CodeBERT, using the custom CodeBERT dataset.
 
 # Again incase you forgot to activate the venv
-. ../venv/bind/activate
+. ../venv/bin/activate
 
 pip3 install gdown
 mkdir ../data ../data/code2nl
